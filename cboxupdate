@@ -19,8 +19,8 @@
   "thumb": "http://stb.shabakaty.com:80/public/thumbs/shabakaty_cinemana_leanback.png",
   "newPackageName": "com.shabakaty.cbox.cinemana",
   "packageName": "com.earthlinktele.cbox_leanback",
-  "versionCode": "40505",
-  "apkVersionName": "4.5.5",
+  "versionCode": "40504",
+  "apkVersionName": "4.5.4",
   "apkPriorityName": "High",
   "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/cinemana_leanback_4.5.4.apk",
   "supportedModels": []
