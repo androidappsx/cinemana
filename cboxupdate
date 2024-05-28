@@ -1,0 +1,93 @@
+{
+"target_stbs": [],
+"cbox_apps": [
+{
+  "id": 444,
+  "name": "CBox Launcher",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/cbox_launcher.png",
+  "newPackageName": "com.shabakaty.cbox.launcher",
+  "packageName": "com.example.bluemix.flow_launcher",
+  "versionCode": "20804",
+  "apkVersionName": "2.8.4",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/launcher_2.8.4.apk",
+  "supportedModels": []
+},
+{
+  "id": 445,
+  "name": "Cinemana",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/shabakaty_cinemana_leanback.png",
+  "newPackageName": "com.shabakaty.cbox.cinemana",
+  "packageName": "com.earthlinktele.cbox_leanback",
+  "versionCode": "40504",
+  "apkVersionName": "4.5.4",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/cinemana_leanback_4.5.4.apk",
+  "supportedModels": []
+},
+{
+  "id": 446,
+  "name": "TV",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/shabakaty_tv_leanback.png",
+  "newPackageName": "com.shabakaty.cbox.tv",
+  "packageName": "com.earthlinktele.tv_leanback",
+  "versionCode": "10605",
+  "apkVersionName": "1.6.5",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/tv_leanback_1.6.5.apk",
+  "supportedModels": []
+},
+{
+  "id": 449,
+  "name": "Smart YouTube Next",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/youtube_rounded_shabakaty.png",
+  "newPackageName": "com.liskovsoft.smarttubetv.beta",
+  "packageName": "com.liskovsoft.smarttubetv.beta",
+  "versionCode": "610",
+  "apkVersionName": "14.20",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/smarttube_beta_610.apk",
+  "supportedModels": []
+},
+{
+  "id": 448,
+  "name": "DTV",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/dtv.png",
+  "newPackageName": "com.android.dtv",
+  "packageName": "com.android.dtv",
+  "versionCode": "40001",
+  "apkVersionName": "4.0.1",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/dtv.apk",
+  "supportedModels": [
+    "unknown_sdk_google_atv_x86",
+    "p230",
+    "Amlogic_p230"
+  ]
+},
+{
+  "id": 460,
+  "name": "Al Manasa",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/almanasa.png",
+  "newPackageName": "iq.almanasa.tvandroid",
+  "packageName": "iq.almanasa.tvandroid",
+  "versionCode": "15",
+  "apkVersionName": "1.4.4",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/app-prod-release-1.4.4_20240522.apk",
+  "supportedModels": []
+},
+{
+  "id": 450,
+  "name": "TenTime",
+  "thumb": "http://stb.shabakaty.com:80/public/thumbs/tentime.png",
+  "newPackageName": "com.tentimelimited.tvbox",
+  "packageName": "com.tentimelimited.tvbox",
+  "versionCode": "1000199",
+  "apkVersionName": "1.0.1",
+  "apkPriorityName": "High",
+  "fullApkDownloadPath": "http://stb.shabakaty.com:80/apks/launcher/tentime.apk",
+  "supportedModels": []
+}
+]
+}
