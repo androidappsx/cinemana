@@ -1,8 +1,8 @@
 [
   {
     "Android-CBOX": {
-      "version": "1.7.6",
-      "forced_version": "1.7.5"
+      "version": "1.4.6",
+      "forced_version": "1.4.5"
     },
      "Android-TV": {
       "version": "1.3.1",
