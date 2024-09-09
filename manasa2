@@ -19,7 +19,7 @@
     "native_report_upload_variant": 2
   },
   "fabric": {
-    "org_id": "65c9090771298c926fdc834e",
+    "org_id": "75c9330771245c926fdc811e",
     "bundle_id": "iq.almanasa.android"
   },
   "on_demand_upload_rate_per_minute": 10.0,
