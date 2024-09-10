@@ -1,6 +1,6 @@
 {
   "settings_version": 3,
-  "cache_duration": 184813,
+  "cache_duration": 0,
   "features": {
     "collect_logged_exceptions": true,
     "collect_reports": true,
