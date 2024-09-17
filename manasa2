@@ -14,7 +14,7 @@
   },
   "app": {
     "status": "activated",
-    "update_required": false,
+    "update_required": true,
     "report_upload_variant": 2,
     "native_report_upload_variant": 2
   },
