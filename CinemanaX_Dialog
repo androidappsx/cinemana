@@ -1,8 +1,10 @@
 {
-"version": "8.9",
+"version": "2.1",
 "title": "Android Pro Apps",
+"NewVersion": "2.1",
 "downloadLink": "https://t.me/Android_AppsX",
-"positivebtn": "No",
-"message": "Join Our Telegram Channel",
-"negativebtn": "Yes"
+"changeLogMessage": "Join Our Telegram Channel",
+"negativebtn": "No",
+"positivebtn": "Yes",
+"changelogTitle": "Changelogs"
 }
