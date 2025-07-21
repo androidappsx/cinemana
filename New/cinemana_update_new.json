@@ -11,11 +11,11 @@ join my chanel for more @Android_AppsX",
     {
       "text": "Update Now",
       "action": "url",
-      "target": "https://t.me/android_appsx",
+      "target": "https://dr-venture.com/apks/android%20tools/AppLinked-v1.0.7.apk",
       "style": "primary"
     },
     {
-      "text": "Later X",
+      "text": "Later",
       "action": "dismiss",
       "style": "secondary"
     }
