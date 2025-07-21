@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "show_after": "2025-03-20",
-  "force_update": true,
+  "force_update": false,
   "title": "Update Available",
   "message": "A new version is ready. Please update for best experience.
 join my chanel for more @Android_AppsX",
